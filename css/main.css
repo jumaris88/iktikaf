@@ -1,0 +1,23 @@
+
+[data-role="header"] {
+    height: 65px;
+}
+[data-role="footer"] ul{
+  padding: 5px 10px 5px 5px;
+}
+[data-role="footer"] p{
+  text-align: center;
+}
+[data-role="footer"] li a{
+  padding: 10px 0;
+}
+[data-role="header"] .btnmenu {
+  margin-left: 10px;
+}
+[data-role="header"] .btnlogin{
+  margin-right: 10px;
+}
+.ui-header .ui-title, .ui-footer .ui-title {
+    text-overflow: clip;
+    white-space: normal;
+}
